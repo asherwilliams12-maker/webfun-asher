@@ -108,3 +108,77 @@
          <p> I love to be outdoors and to fish (<a href="fishing.html">Fishing Page</a>)I enjoy hunting and golfing as well. I like to lift weights and even swim occasionally. I love to just enjoy the beautiful sights of nature as well. (<a href="images.html">Images Page</a>)
      </body>
 </html>
+<html>
+    <head>
+        <title>Basketball</title>
+    </head>
+    <body style="background-color:beige;">
+        <h1> <b>Basketball</b></h1>
+        <h2> By: Asher Williams </h2>
+        <p>I enjoy a variety of hobbies in my free time. My favorite is basketball</p>
+        <img src="https://images.unsplash.com/photo-1546519638-68e109498ffc?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmFza2V0YmFsbCUyMGNvdXJ0fGVufDB8fDB8fHww" alt="Basketball" width="500" height="300" style="border: 2px solid black;">
+        <h3>About Me</h3>
+        <p><li>Basketball is a sport that I have played my whole life. I started playing when I was about 5 years old. I played on a team in my hometown of Bonners Ferry, Idaho. 
+        <p><li> I played all the way through high school and now I play for <a href="https://www.mtech.edu/">Montana Tech</a>. I love the competitiveness of the game and the teamwork that is involved. It is a great way to stay in shape and have fun at the same time.</li></p>
+        <img src="orediggers.jpeg" alt="Montana Tech Orediggers" width="300" height="300" style="border: 2px solid black;">
+
+        <p><li>In high school, I was fortunate enough to break the all-time scoring record for my school. It was a great accomplishment for me and something that I am very proud of.</p>
+
+        <p><li>Playing basketball has taught me a lot about discipline, hard work, and perseverance. I won two state championships and was named MVP of the tournament both times.</p>
+            <img src ="20250308-JD1_2556_t1170.jpeg" alt="State Championship" width="500" height="300" style="border: 2px solid black;">
+        <p> <a href="index.html">Back to Home</a></p>
+    </body>
+</html>
+<html>
+    <head>
+        <title>Images from Pixlr</title>
+        <rel="stylesheet" href="css/styles.css">
+        <body style="background-color:beige;">
+        </body>
+        <h1>Images from Pixlr</h1>
+        <h2>By:Asher Williams </h2>
+        <img src="butterfly.jpeg" alt="Butterfly" width="500" height="300" style="border: 2px solid black;">
+        <h3>Butterfly</h3>
+        <img src="tree.jpg" alt="Tree" width="500" height="300" style="border: 2px solid black;">
+        <h3>Tree</h3>
+        <img src="mount-everest-at-sunset.webp" alt="Mountain" width="500" height="300" style="border: 2px solid black;">
+        <h3>Mountain</h3>
+        <img src="bball .jpg" alt="Basketball" width="500" height="300" style="border: 2px solid black;">
+        <h3>Basketball</h3>
+        <p> <a href="index.html">Back to Home</a></p>
+    </head>
+</html>
+<html>
+    <head>
+        <title> Outdoors and Fishing</title>
+    </head><link href="styles.css" rel="stylesheet">
+    <body>
+        <h1>My Outdoor Adventures</h1>
+        <p>I love spending time outdoors, especially when it comes to fishing. There's something peaceful about being on the water and waiting for a bite.</p>
+        <img src="fihsing.jpeg" alt="Fishing" width="600" height="400" style="border: 2px solid black;">
+        <h2>Favorite Fishing Spots</h2>
+        <ul>
+            <li>Moyie River, Idaho</li>
+            <li>Bull Lake, Montana</li>
+            <li>Kootenai River, Idaho</li>
+        </ul>
+        <h2>Fishing Tips</h2>
+        <p>Here are a few tips I've learned over the years:</p>
+        <ol>
+            <li>Be patient - sometimes it takes a while to get a bite.</li>
+            <li>Use the right bait for the type of fish you're trying to catch. I enjoy fly fishing on the surface personally.</li>
+            <li>Pay attention to the weather - fish are more active during certain conditions.</li>
+        </ol> <a href="index.html" style="color:black;">Back to Home</a>
+    </body><html>
+    <head>
+        <title>Montana Tech</title>
+    </head>
+    <body style="background-color:rgb(8, 87, 16); color:white;">
+        <h1>Montana Tech</h1>
+        <p><a href="https://www.mtech.edu/" style="color:white;">Montana Tech</a> is a great school located in Butte, Montana. It is known for its engineering and technical programs.</p>
+        <img src="campus-aerial-shot.jpg" alt="Montana Tech Campus" width="600" height="300" style="border: 2px solid white;">
+        <p>I chose to attend Montana Tech because of its strong basketball program and its focus on preparing students for successful careers.</p>
+        <p> When I am there I plan to study Business as my degree.</p>
+        <p> <a href="index.html" style="color:white;">Back to Home</a></p>
+    </body>
+</html>
